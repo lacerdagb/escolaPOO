@@ -28,7 +28,8 @@ Este projeto simula um pequeno sistema de gerenciamento educacional, utilizando 
 
 Para uma explicação mais detalhada e uma demonstração prática do código em execução, assista ao vídeo completo no meu canal do YouTube:
 
-[![Assista no YouTube](https://youtu.be/L-aNy0GQ-Ks)
+[![Assista no YouTube](https://img.youtube.com/vi/aNy0GQ/hqdefault.jpg)]([(https://www.youtube.com/watch?v=L-aNy0GQ-Ks)])
+
 
 ## 💻 Como Rodar o Projeto
 
